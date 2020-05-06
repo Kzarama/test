@@ -197,8 +197,3 @@ WHERE atributo1 = (
 ![img/Untitled.png](img/Untitled.png)
 
 ![img/Untitled%201.png](img/Untitled%201.png)
-
-## Pasos para realizar un proyecto:
-
-1. Identificar las entidades
-2. Pensar en los atributos
