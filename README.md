@@ -1,5 +1,3 @@
 # test
 
-See the description at the wiki
-
-[To wiki](https://github.com/Kzarama/test/wiki)
+See the description in the [wiki](https://github.com/Kzarama/test/wiki)
