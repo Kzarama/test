@@ -4,4 +4,4 @@
 
 Relacion entre post y etiquetas
 
-![Proyecto/Untitled.png](Proyecto/Untitled.png)
+![img/Untitled2.png](img/Untitled2.png)

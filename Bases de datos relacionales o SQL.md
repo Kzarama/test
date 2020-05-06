@@ -194,9 +194,9 @@ WHERE atributo1 = (
 
 # Join (unir tablas)
 
-![Bases%20de%20datos%20relacionales%20o%20SQL/Untitled.png](Bases%20de%20datos%20relacionales%20o%20SQL/Untitled.png)
+![img/Untitled.png](img/Untitled.png)
 
-![Bases%20de%20datos%20relacionales%20o%20SQL/Untitled%201.png](Bases%20de%20datos%20relacionales%20o%20SQL/Untitled%201.png)
+![img/Untitled%201.png](img/Untitled%201.png)
 
 ## Pasos para realizar un proyecto:
 
